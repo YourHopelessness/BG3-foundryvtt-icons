@@ -1,0 +1,17 @@
+{
+    "name": "BG3-foundryvtt-icons",
+    "title": "BG3 Icons",
+    "description": "A collection of BG3 ability icons for use in Foundry VTT.",
+    "version": "1.0.0",
+    "author": "Yoko",
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "11",
+    "esmodules": [],
+    "styles": [],
+    "packs": [],
+    "languages": [],
+    "url": "https://your-optional-url",
+    "manifest": "https://your-url/module.json",
+    "download": "https://your-url/bg3-passive-icons.zip"
+  }
+  
